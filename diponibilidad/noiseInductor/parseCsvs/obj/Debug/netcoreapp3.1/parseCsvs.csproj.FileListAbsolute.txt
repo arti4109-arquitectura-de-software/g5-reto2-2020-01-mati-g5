@@ -1,0 +1,13 @@
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\bin\Debug\netcoreapp3.1\parseCsvs.exe
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\bin\Debug\netcoreapp3.1\parseCsvs.deps.json
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\bin\Debug\netcoreapp3.1\parseCsvs.runtimeconfig.json
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\bin\Debug\netcoreapp3.1\parseCsvs.runtimeconfig.dev.json
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\bin\Debug\netcoreapp3.1\parseCsvs.dll
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\bin\Debug\netcoreapp3.1\parseCsvs.pdb
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\obj\Debug\netcoreapp3.1\parseCsvs.csprojAssemblyReference.cache
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\obj\Debug\netcoreapp3.1\parseCsvs.csproj.CoreCompileInputs.cache
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\obj\Debug\netcoreapp3.1\parseCsvs.AssemblyInfoInputs.cache
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\obj\Debug\netcoreapp3.1\parseCsvs.AssemblyInfo.cs
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\obj\Debug\netcoreapp3.1\parseCsvs.dll
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\obj\Debug\netcoreapp3.1\parseCsvs.pdb
+C:\Users\nhkcm\source\repos\noiseInductor\parseCsvs\obj\Debug\netcoreapp3.1\parseCsvs.genruntimeconfig.cache

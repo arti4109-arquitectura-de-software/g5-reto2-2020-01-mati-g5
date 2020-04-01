@@ -1,0 +1,11 @@
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\bin\Debug\noiseInductor.exe.config
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\bin\Debug\noiseInductor.exe
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\bin\Debug\noiseInductor.pdb
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\bin\Debug\System.Management.Automation.dll
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\bin\Debug\System.Management.Automation.xml
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\obj\Debug\noiseInductor.csprojAssemblyReference.cache
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\obj\Debug\noiseInductor.csproj.CoreCompileInputs.cache
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\obj\Debug\noiseInductor.csproj.CopyComplete
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\obj\Debug\noiseInductor.exe
+C:\Users\nhkcm\source\repos\noiseInductor\noiseInductor\obj\Debug\noiseInductor.pdb

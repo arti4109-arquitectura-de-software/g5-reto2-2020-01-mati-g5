@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJgarLuGdzHtql7BPSHuCCkDScAhU3QvoDwUzId0RwVJTuksnZo14RkQiTI0gEl5jdLMBBoPdVaZHUOZ2r9Pxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nhkcm\\source\\repos\\SecurityTestSignalR\\SecuritySignalRTest\\SecuritySignalRTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhkcm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
